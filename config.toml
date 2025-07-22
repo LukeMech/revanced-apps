@@ -8,3 +8,4 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 [GooglePhotos]
 build-mode = "apk"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
