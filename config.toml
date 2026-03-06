@@ -5,7 +5,7 @@ parallel-jobs = 1
 build-mode = "apk"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 
-[GooglePhotos]
-build-mode = "apk"
-arch = "both"
-uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
+# [GooglePhotos]
+# build-mode = "apk"
+# arch = "both"
+# uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
